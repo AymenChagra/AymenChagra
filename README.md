@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohamed Aymen Chagra<br><br>I'm a Second-year Computer Engineering student, with  Cloud Computing specialization. Throughout my academic journey, I’ve worked on web development projects and gained valuable experience in the deployment and the configuration of both private and public cloud infrastructures. I’m eager to keep learning and apply my skills to impactful, large-scale projects.
+👋 Hi, I'm Mohamed Aymen Chagra<br>I'm a Second-year Computer Engineering student, with  Cloud Computing specialization. Throughout my academic journey, I’ve worked on web development projects and gained valuable experience in the deployment and the configuration of both private and public cloud infrastructures. I’m eager to keep learning and apply my skills to impactful, large-scale projects.
 
 
 ## 🌐 Socials:
